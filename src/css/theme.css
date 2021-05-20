@@ -1,0 +1,121 @@
+*{
+font-family: 'Poppins', sans-serif;
+color: #2F281E;
+}
+
+html,
+body {
+  max-width: 100%;
+overflow-x: hidden;
+  background-color: white !important;
+}
+
+.color-theme{
+    color: #081D43 !important;
+}
+
+
+
+.btn-custom{
+    background-color: #0050C8 !important;
+    transition: 0.3s;
+    color: #fff !important;
+}
+
+.btn-custom:hover {
+    background-color:#062b63 !important;
+    color: #fff !important;
+}
+
+.btn-blue{
+    background-color: #2F5BEA !important;
+    transition: 0.3s;
+    color: #fff !important;
+}
+
+.btn-blue:hover{
+    background-color: #2543a3 !important;
+    color: #fff !important;
+}
+
+.link{
+    color: #081D43;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #0c3074;
+}
+
+.w-125{
+    width: 125px;
+}
+
+.width-1n8x{
+    width: 180px;
+}
+
+.width-2x{
+    width: 200px;
+}
+
+.width-3x{
+    width: 300px;
+}
+
+.width-4x{
+    width: 400px;
+}
+
+.width-5x{
+    width: 500px;
+}
+
+.max-width-1x{
+    max-width: 200px;
+}
+
+.max-width-2x{
+    max-width: 300px;
+}
+
+.max-width-3x{
+    max-width: 400px;
+}
+
+.max-width-4x{
+    max-width: 500px;
+}
+
+.max-width-5x{
+    max-width: 600px;
+}
+
+.bold-0{
+    font-weight: 400;
+}
+
+.bold-1{
+    font-weight: 500;
+}
+
+.bold-2{
+    font-weight: 600;
+}
+
+.bold-3{
+    font-weight: 700;
+}
+
+.bold-4{
+    font-weight: 800;
+}
+
+.bold-5{
+    font-weight: 900;
+}
+
+.r40{
+    transform: translateX(-2px) rotate(40deg);
+}

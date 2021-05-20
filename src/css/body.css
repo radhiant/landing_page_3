@@ -1,0 +1,68 @@
+.img-header{
+     transform: translateX(-200px);
+}
+
+.bg-clients{
+    background-image: url('bg-content.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-form{
+    background-image: url('bg-form.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-email{
+    padding: 14px;
+    padding-left: 16px;
+    padding-right: 50px;
+    border: 1px solid grey;
+    transition: 300ms;
+    width: 350px;
+    border-radius: 8px;
+}
+
+.form-email:focus{
+    outline: none;
+    box-shadow: 5px 3px 10px #2F5BEA;
+}
+
+.xs-block{
+    display: none;
+}
+
+.display-header{
+    display: none;
+}
+
+.display-space{
+    display: block;
+}
+
+.btn-up {
+  z-index: 9999;
+  position: fixed;
+  right: 32px;
+  bottom: 80px;
+}
+
+.btn-full {
+  z-index: 9999;
+  position: fixed;
+  right: 32px;
+  bottom: 32px;
+}
+
+.fadeOut{
+     opacity:0;
+     transition: width 0.5s 0.5s, height 0.5s 0.5s, opacity 0.5s;
+
+}
+.fadeIn{
+     opacity:1;
+     transition: width 0.5s, height 0.5s, opacity 0.5s 0.5s;
+
+}
+
