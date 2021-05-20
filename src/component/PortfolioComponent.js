@@ -16,42 +16,42 @@ export default class PortfolioComponent extends Component {
                         <h1 className="h2 text-center bold-2 mt-2 mb-5" data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">Three Simple Step To Started Working Process</h1>
 
                         <div className="col-lg-4 col-md-6 my-3">
-                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600">
                                 <div className="card-body p-0">
                                     <img src="assets/portfolio/portfolio1.png" width="100%" className="img" alt="img" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 my-3">
-                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
+                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600">
                                 <div className="card-body p-0">
                                     <img src="assets/portfolio/portfolio2.png" width="100%" className="img" alt="img" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 my-3">
-                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600" data-aos-delay="800">
+                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600" >
                                 <div className="card-body p-0">
                                     <img src="assets/portfolio/portfolio3.png" width="100%" className="img" alt="img" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 my-3">
-                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600">
                                 <div className="card-body p-0">
                                     <img src="assets/portfolio/portfolio4.png" width="100%" className="img" alt="img" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 my-3">
-                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
+                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600">
                                 <div className="card-body p-0">
                                     <img src="assets/portfolio/portfolio5.png" width="100%" className="img" alt="img" />
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 my-3">
-                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600" data-aos-delay="800">
+                            <div className="card border-0 shadow rounded" data-aos="fade-up" data-aos-duration="600">
                                 <div className="card-body p-0">
                                     <img src="assets/portfolio/portfolio6.png" width="100%" className="img" alt="img" />
                                 </div>

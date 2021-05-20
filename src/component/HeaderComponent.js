@@ -5,7 +5,7 @@ export default class HeaderComponent extends Component {
         return (
             <div className="container position-relative">
 
-                <div className="display-space">
+                <div className="d-none d-lg-block">
                     <br /><br /><br />
                 </div>
 
@@ -30,7 +30,7 @@ export default class HeaderComponent extends Component {
 
                 </div>
 
-                <div className="display-space d-lg-block">
+                <div className="display-space d-none d-lg-block">
                     <br /><br /><br /><br /><br /><br />
                 </div>
 
