@@ -60,8 +60,8 @@ export default class FooterComponent extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12 d-flex justify-content-between">
-                            <span className="color-theme mb-3">Copyright © 2021</span>
-                            <span className="mb-3">
+                            <span className="color-theme mb-3 d-none">Copyright © 2021</span>
+                            <span className="mb-3 text-center">
                                 Created with <i className="fas fa-heart text-danger"></i> by <a href="https://github.com/radhiant"
                                     className="text-primary fw-bold" target="_blank" rel="noopener noreferrer">Radhian Sobarna</a>
                             </span>
