@@ -1,5 +1,34 @@
 
 
+@media screen and (max-width: 600px) {
+
+.xs-block{
+    display: block;
+}
+
+.box-email{
+    width: 100%;
+}
+
+.form-email{
+    width: 100%;
+}
+
+
+}
+
+@media screen and (max-width: 1199px) {
+  
+
+}
+
+@media screen and (max-width: 992px) {
+  
+
+}
+
+
+
 @media screen and (max-width: 800px) {
 .navbar-position{
     margin-left: 0px;
@@ -32,32 +61,5 @@
 .max-width-5x{
     max-width: 100%;
 }
-
-}
-
-@media screen and (max-width: 600px) {
-
-.xs-block{
-    display: block;
-}
-
-.box-email{
-    width: 100%;
-}
-
-.form-email{
-    width: 100%;
-}
-
-
-}
-
-@media screen and (max-width: 1199px) {
-  
-
-}
-
-@media screen and (max-width: 992px) {
-  
 
 }

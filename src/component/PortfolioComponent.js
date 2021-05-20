@@ -61,10 +61,10 @@ export default class PortfolioComponent extends Component {
                     </div>
                 </div>
 
-                <div class="modal fade" role="dialog" id="imgmodal">
-                    <div class="modal-dialog modal-dialog-centered">
-                        <div class="modal-content"></div>
-                        <img class="img-responsive" src="" id="show-img" width="100%" alt="img" />
+                <div className="modal fade" role="dialog" id="imgmodal">
+                    <div className="modal-dialog modal-dialog-centered">
+                        <div className="modal-content"></div>
+                        <img className="img-responsive" src="" id="show-img" width="100%" alt="img" />
                     </div>
                 </div>
             </div>
